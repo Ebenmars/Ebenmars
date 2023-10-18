@@ -2,7 +2,7 @@
 
 
 <h1> About Me </h1>
- 🏫 Currently studying Computer Science at Radford Univeristy. <br/>
+ 🏫 Currently studying Computer Science at Radford University. <br/>
 📍 Located in Radford, VA/Alexandria, VA <br/>
 📉📈 Learning from mistakes one step at a time 
 
