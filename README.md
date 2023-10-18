@@ -1,10 +1,11 @@
 ### Hi, Im Ebenezer ♤
 
 
-About Me
-🏫 Currently studying Computer Science at Radford Univeristy.
-📍 Located in Radford, VA/Alexandria, VA
+<h1> About Me </h1>
+ 🏫 Currently studying Computer Science at Radford Univeristy. <br/>
+📍 Located in Radford, VA/Alexandria, VA <br/>
 📉📈 Learning from mistakes one step at a time 
+
 ---
 ### 🧰 Languages and Tools
  <img src="https://skillicons.dev/icons?i=java,javascript,bootstrap,html,css,vscode,github,figma,git,firebase" />
