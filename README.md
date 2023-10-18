@@ -2,9 +2,9 @@
 
 
 About Me
-- Currently studying Computer Science at Radford Univeristy.
-- Located in Radford, VA/Alexandria, VA
-- Learning from mistakes one step at a time 
+🏫 Currently studying Computer Science at Radford Univeristy.
+📍 Located in Radford, VA/Alexandria, VA
+📉📈 Learning from mistakes one step at a time 
 ---
 ### 🧰 Languages and Tools
  <img src="https://skillicons.dev/icons?i=java,javascript,bootstrap,html,css,vscode,github,figma,git,firebase" />
