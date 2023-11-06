@@ -14,6 +14,6 @@
 ---
 
 ### 📊 Stats
-[![Ebenezer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ebenmars&theme=dark)](https://github.com/Ebenmars/github-readme-stats)                        
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ebenmars&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>                    
 
 
