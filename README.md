@@ -1,19 +1,20 @@
-   <h1>Hi there, I'm <a href="https://">Ebenezer</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+## 👋🏾 Introducing Myself
 
+Hello, I'm Ebenezer. Computer Science student with knowledge in Web Devolvement and Full-Stack.
 
+### 🛠️ Tools
 
-<h1> About Me </h1>
- 🏫 Currently studying Computer Science at Radford University. <br/>
-📍 Located in Radford, VA/Alexandria, VA <br/>
-📉📈 Learning from mistakes one step at a time 
+- Languages: Java, Javascript, Rust, SQL, HTML, CSS
+- Technologies: Git, Excel, Firebase, Junit5, Figma
+- Frameworks: React
 
----
-### 🧰 Languages and Tools
- <img src="https://skillicons.dev/icons?i=java,javascript,bootstrap,html,css,vscode,github,figma,git,firebase" />
+### 👋🏻 Connect with Me
+
+- [Linkedin](https://www.linkedin.com/in/ebenezer-morkeh-a8118317a/)
 
 ---
 
 ### 📊 Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ebenmars&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>                    
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ebenmars&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="300px"/>                    
 
 
