@@ -8,7 +8,7 @@ Hello, I'm Ebenezer. Computer Science student with knowledge in Web Devolvement 
 - Technologies: Git, Excel, Firebase, Junit5, Figma
 - Frameworks: React
 
-### 👋🏻 Connect with Me
+### 🫴🏾 Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/ebenezer-morkeh-a8118317a/)
 
